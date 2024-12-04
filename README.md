@@ -1,3 +1,6 @@
+#This is the first project in the python track I make and It should be an arithemtic formatter
+
+
 # arithemtic_project
 def arithmetic_arranger(problems, show_answers=False):
     # Check for too many problems
